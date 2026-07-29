@@ -18,4 +18,4 @@ pip install -r requirements.txt
 streamlit run app_streamlit.py
 ```
 
-Acesse a versão publicada em: **[link do Streamlit Cloud aqui]**
+Acesse a versão publicada em: **[https://unifecaf-algorithmic-thinking.streamlit.app/]**
